@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cbt-healthcity",
+    "cbt-prod": "cbt-healthcity",
+    "cbt-staging": "cbt-healthcity-staging"
+  }
+}
